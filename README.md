@@ -3,8 +3,11 @@ This is a simple Web project
 we are making changin in the the git to git hub
 
 ## Intoduction
+This is the Introduction of new project 
 
 ## Purpose
+
+We are Introducing the purpose of the is project
 
 ## Deployment
 
