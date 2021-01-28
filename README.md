@@ -14,3 +14,5 @@ We are Introducing the purpose of the is project
 We are deploy the new project in this section
 
 ## How to Contribute
+
+Adding simple text
